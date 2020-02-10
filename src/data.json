@@ -1,0 +1,128 @@
+[
+	{
+		"name": "Black Eagle",
+		"productionYear": "2453",
+		"type": "Military Spheroid",
+		"techBase": "Inner Sphere (Primitive)",
+		"mass": "4,500 tons",
+		"armament": [
+			"8x LRM 20s",
+			"9x Large Lasers",
+			"12x Medium Lasers"
+		],
+		"armor": "55 tons Primitive Armor",
+		"img": "https://cfw.sarna.net/wiki/images/7/74/Pentagon_%28DropShip%29.jpg?timestamp=20100513231944",
+		"description": [
+			"Originally designed as an armored vehicle carrier for the Terran Hegemony, the Black Eagle was the answer to the HAF's need for a larger BattleMech carrier. Previous designs had been simple conversions of civilian cargo haulers with limited carrying capacities and defenses. However, the Black Eagle solved many of the logistic problems of deploying these early BattleMechs, such as the Mackie, quickly into battle. Rearranging its cargo decks, Mikoyan Aerospace Consortium was able to create enough space for a company worth of the Hegemony's newest war machines.",
+			"Initially assigned to the HAF's assault companies, these ships would be used in the initial stages of an invasion to secure a beachhead for attacking Hegemony units. The ship would thus become the Hegemony's principal assault BattleMech carrier, which in turn would become highly successful in its mission. Later designs of DropShips, such as the Lion and later the Union, would be patterned after it.",
+			"The design's success would prompt the Terran Hegemony to use it as the basis for its Pentagon-Class Assault Dropship design."
+		]
+	},
+	{
+		"name": "Dragau II",
+		"productionYear": "3085",
+		"type": "Military Aerodyne",
+		"techBase": "Inner Sphere (Advanced)",
+		"mass": "2,500 tons",
+		"armament": [
+			"2x Heavy Gauss Rifles",
+			"6x Heavy PPCs",
+			"4x ER PPCs",
+			"4x LRM 15 w/Artemis IV",
+			"10x Large VSP Lasers",
+			"2x ER Medium Lasers",
+			"6x AMS"
+		],
+		"armor": "Heavy Ferro Aluminum",
+		"img": "https://cfw.sarna.net/wiki/images/a/af/DRAGAU_II.JPG?timestamp=20110219145322",
+		"description": [
+			"The Dragau II Class Assault Interceptor is a high speed DropShip that was adapted by the Republic of the Sphere for their use by 3085. The Dragau II is based on the Word of Blake Drone design that was used against Allied Coalition during the final years of the Jihad. The ship is configured to use its high speed and forward angled weaponry to hit its opponents."
+		]
+	},
+	{
+		"name": "Mercer",
+		"productionYear": "3065",
+		"type": "Military Spheroid",
+		"techBase": "Clan",
+		"mass": "4,500 tons",
+		"armament": [
+			"2x Gauss Rifles",
+			"14x ER PPCs",
+			"14x ER Large Lasers",
+			"6x Large Pulse Lasers",
+			"21x ER Medium Lasers",
+			"4x Medium Pulse Lasers",
+			"6x LRM-20w/Artemis IV",
+			"2x Streak SRM-6"
+		],
+		"armor": "66 tons standard",
+		"img": "https://cfw.sarna.net/wiki/images/thumb/2/21/Mercer.jpg/800px-oqsvln0dzxxds4nk02v4fs6dvsm9j9f.jpg?timestamp=20180223014100",
+		"description": [
+			"Most of the Mercer's armament appears to be geared at fighting AeroSpace Fighters and other DropShips. The Pulse Lasers and LRM's with Artemis IV fire control systems improve the odds of hitting fast moving targets, while the Streak SRM-6 launchers won't fire until they have a target lock. For long range direct fire support, the Mercers mount a large array of Extended Range PPCs and Extended Range Large Lasers. Firing into every arc, these weapons can damage opponents regardless of distance. To provide additional firepower, the nose mounts a pair of Gauss Rifles. These long-range, low heat weapons will inflict serious damage on any DropShip or AeroSpace fighter foolish enough to get in their path.",
+			"One thing that has baffled some Inner Sphere observers is the lack of LB-X Autocannon. These weapons typically allow for a higher hit probability against fast moving targets like AeroSpace Fighters. Though they may be an \"inelegant\" weapon, the Clans traditional disdain for using DropShips in combat would seem to negate that problem."
+		]
+	},
+	{
+		"name": "Drugar IV",
+		"productionYear": "3085",
+		"type": "Military Aerodyne",
+		"techBase": "Inner Sphere (Advanced)",
+		"mass": "2,500 tons",
+		"armament": [
+			"2x Heavy Gauss Rifles",
+			"6x Heavy PPCs",
+			"4x ER PPCs",
+			"4x LRM 15 w/Artemis IV",
+			"10x Large VSP Lasers",
+			"2x ER Medium Lasers",
+			"6x AMS"
+		],
+		"armor": "Heavy Ferro Aluminum",
+		"img": "https://cfw.sarna.net/wiki/images/a/af/DRAGAU_II.JPG?timestamp=20110219145322",
+		"description": [
+			"The Dragau II Class Assault Interceptor is a high speed DropShip that was adapted by the Republic of the Sphere for their use by 3085. The Dragau II is based on the Word of Blake Drone design that was used against Allied Coalition during the final years of the Jihad. The ship is configured to use its high speed and forward angled weaponry to hit its opponents."
+		]
+	},
+	{
+		"name": "Murloc",
+		"productionYear": "3065",
+		"type": "Military Spheroid",
+		"techBase": "Clan",
+		"mass": "4,500 tons",
+		"armament": [
+			"2x Gauss Rifles",
+			"14x ER PPCs",
+			"14x ER Large Lasers",
+			"6x Large Pulse Lasers",
+			"21x ER Medium Lasers",
+			"4x Medium Pulse Lasers",
+			"6x LRM-20w/Artemis IV",
+			"2x Streak SRM-6"
+		],
+		"armor": "66 tons standard",
+		"img": "https://cfw.sarna.net/wiki/images/thumb/2/21/Mercer.jpg/800px-oqsvln0dzxxds4nk02v4fs6dvsm9j9f.jpg?timestamp=20180223014100",
+		"description": [
+			"Most of the Mercer's armament appears to be geared at fighting AeroSpace Fighters and other DropShips. The Pulse Lasers and LRM's with Artemis IV fire control systems improve the odds of hitting fast moving targets, while the Streak SRM-6 launchers won't fire until they have a target lock. For long range direct fire support, the Mercers mount a large array of Extended Range PPCs and Extended Range Large Lasers. Firing into every arc, these weapons can damage opponents regardless of distance. To provide additional firepower, the nose mounts a pair of Gauss Rifles. These long-range, low heat weapons will inflict serious damage on any DropShip or AeroSpace fighter foolish enough to get in their path.",
+			"One thing that has baffled some Inner Sphere observers is the lack of LB-X Autocannon. These weapons typically allow for a higher hit probability against fast moving targets like AeroSpace Fighters. Though they may be an \"inelegant\" weapon, the Clans traditional disdain for using DropShips in combat would seem to negate that problem."
+		]
+	},
+	{
+		"name": "Bright Eagle II",
+		"productionYear": "2453",
+		"type": "Military Spheroid",
+		"techBase": "Inner Sphere (Primitive)",
+		"mass": "4,500 tons",
+		"armament": [
+			"8x LRM 20s",
+			"9x Large Lasers",
+			"12x Medium Lasers"
+		],
+		"armor": "55 tons Primitive Armor",
+		"img": "https://cfw.sarna.net/wiki/images/7/74/Pentagon_%28DropShip%29.jpg?timestamp=20100513231944",
+		"description": [
+			"Originally designed as an armored vehicle carrier for the Terran Hegemony, the Black Eagle was the answer to the HAF's need for a larger BattleMech carrier. Previous designs had been simple conversions of civilian cargo haulers with limited carrying capacities and defenses. However, the Black Eagle solved many of the logistic problems of deploying these early BattleMechs, such as the Mackie, quickly into battle. Rearranging its cargo decks, Mikoyan Aerospace Consortium was able to create enough space for a company worth of the Hegemony's newest war machines.",
+			"Initially assigned to the HAF's assault companies, these ships would be used in the initial stages of an invasion to secure a beachhead for attacking Hegemony units. The ship would thus become the Hegemony's principal assault BattleMech carrier, which in turn would become highly successful in its mission. Later designs of DropShips, such as the Lion and later the Union, would be patterned after it.",
+			"The design's success would prompt the Terran Hegemony to use it as the basis for its Pentagon-Class Assault Dropship design."
+		]
+	}
+]
